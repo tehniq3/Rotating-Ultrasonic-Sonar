@@ -6,4 +6,3 @@ base article from: http://apcmag.com/arduino-basics-7-turning-heads-with-arduino
 
 ![schematic](http://oi63.tinypic.com/20q0xg9.jpg)
 
-![video](https://www.youtube.com/watch?v=dDjH5i3ygoc)
